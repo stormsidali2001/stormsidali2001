@@ -2,15 +2,12 @@
 
 ### Data Scientist | AI Engineer | Full-Stack Developer
 
- Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Engineering.
+ Passionate about Artificial Intelligence, Machine Learning, Data Science, Software Engineering, and anything that can spark my curiosity in this binary world.
 
- Currently working on AI-powered applications, research projects, and data-driven solutions.
+ Looking to collaborate on interesting, and challenging projects.
 
- Looking to collaborate on new, interesting, and challenging projects.
+For more about me please visit [my personal website](https://sidaliassoul.com/), where you can see all my work listed, i also write blog articles and publish videos about them from time to time.
 
- Continuously learning and exploring new technologies, frameworks, and approaches in AI and software development.
-
----
 
 ## 💻 Skills
 
