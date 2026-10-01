@@ -7,11 +7,10 @@ Software engineer focused on backend systems, distributed applications, and buil
 - **Backend and distributed systems:** Designing APIs, microservices, data pipelines, and production systems with a focus on reliability and scalability.
 - **AI and data systems:** Building AI-powered applications and data-intensive products, with experience across NLP, machine learning, and distributed processing.
 
-### Recent writing
+### Recent writing & videos
 
-- [The Solution to Deploying Resume Projects Without Bearing the Cost](https://sidaliassoul.com/)
-- [Reflections on My Engineering and Master's Thesis](https://sidaliassoul.com/)
-- [Master Python Asyncio: A Full Guide](https://sidaliassoul.com/)
+- [Linear Regression From Scratch: The Model and Cost Function](https://sidaliassoul.com/blog/linear-regression-from-scratch-the-model-and-cost-function/)
+- [Python Asyncio Crash Course](https://www.youtube.com/watch?v=vve5SHVE_F0)
 
 ### How to reach me
 
